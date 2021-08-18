@@ -1,0 +1,2 @@
+# a-debounce
+Asynchronous debounce
